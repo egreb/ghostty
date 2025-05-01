@@ -1,4 +1,37 @@
-font-family = Iosevka Nerd Font Mono
-font-size = 22
-theme = tokyonight_night
+# Theme
+# theme = everforest-light-soft.ghostty
+# theme = onehalfdarkmodified.ghostty
+theme = Jellybeans
+
+# Font
+# font-family = SFMono Nerd Font
+# font-family = CaskaydiaCove Nerd Font
+# font-family = CascadiaCodeNF
+window-padding-y = 6,0
+
+font-family = "JetBrainsMono Nerd Font"
+font-size = 15
+# font-thicken = true
+# font-thicken-strength = 100
+
+# Disable ligatures
+font-feature = -calt
+font-feature = -liga
+font-feature = -dlig
+
+adjust-cell-height = 12.5%
+adjust-cell-width = 2.5%
+minimum-contrast = 1
+
+background-opacity = .99
+background-blur
+
+# Misc
 macos-option-as-alt = true
+gtk-titlebar = false
+cursor-style = underline
+cursor-opacity = 0.9
+window-theme = ghostty
+
+macos-titlebar-style = hidden
+macos-icon = chalkboard
